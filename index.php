@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <!-- Similar to require, makes sure the file is included. If the file is already included, it doesn't include it again. -->
-    <?php require_once "bootstrap.php"; ?>
+    Muhaddatha Abdulghani's Rock Paper Scissors
     </title>
+    <?php require_once "bootstrap.php"; ?>
+    <!-- Similar to require, makes sure the file is included. If the file is already included, it doesn't include it again. -->
 </head>
 
 <body>
